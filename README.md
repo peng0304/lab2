@@ -1,2 +1,3 @@
 # lab2
-i9k
+make
+make clean
